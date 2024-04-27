@@ -1,0 +1,348 @@
+.div1{
+    width: 370px;
+    height: 500px;
+    background-color: hsl(252, 100%, 67%);
+    margin-left:400px ;
+    margin-top: 250px;
+    border-radius: 6%;
+ z-index: 1;
+}
+
+.div11{
+    width: 200px;
+    height: 200px;
+    background-color: hsla(256, 72%, 46%, 1);
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 100px;
+    border-radius: 50%;
+  }
+.p1{
+    font-family: Hanken Grotesk;
+    font-weight: 800;
+    font-size: 60px;
+    color: hsl(0, 0%, 100%);
+  
+}
+.p2{
+    margin-top: -60px;
+  color:hsl(241, 100%, 89%);
+}
+.p3{
+    color:hsl(241, 100%, 89%);
+    position: absolute;
+    margin-left: 135px;
+    margin-top: 50px;
+    font-size: 18px;
+    font-family:Hanken Grotesk ;
+    font-weight: 500;
+
+}
+.p4{
+    position: absolute;
+    margin-left:140px ;
+    margin-top: 320px;
+    font-size: 25px;
+    font-family:Hanken Grotesk ;
+    color: hsl(0, 0%, 100%);
+    font-weight: 700;
+}
+.p5{
+    position: absolute;
+    margin-left:70px ;
+    margin-top: 360px;
+    color:hsl(241, 100%, 89%);
+    font-family:Hanken Grotesk ;
+}
+.p6{
+    position: absolute;
+    margin-left:80px ;
+    margin-top: 380px;
+    color:hsl(241, 100%, 89%);
+    font-family:Hanken Grotesk ;
+}
+.p7{
+    position: absolute;
+    margin-left:130px ;
+    margin-top: 400px;
+    color:hsl(241, 100%, 89%);
+    font-family:Hanken Grotesk ;
+}
+.div2{
+    width: 720px;
+    height: 500px;
+    background-color:hsl(0, 0%, 100%);
+  margin-left: 0px;
+ position: absolute;
+z-index: -1;
+  box-shadow: 10px 10px 5px lightgray;
+border-radius: 6%;
+}
+.p22{
+    margin-left: 400px;
+    margin-top: 55px;
+    font-family: Hanken Grotesk ;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.div33{
+    background-color: hsl(0, 100%, 67%);
+    opacity: 0.1;
+    width: 300px;
+    height: 50px;
+margin-left: 400px;
+    position: absolute;
+    border-radius: 10px;
+}
+.svg1{
+    margin-left: 410px;
+    margin-top: 10px;
+position: absolute;
+}
+.pp{
+    margin-left: 440px;
+    margin-top: 10px;
+    color:  hsl(0, 100%, 67%);
+    position: absolute;
+    font-family:Hanken Grotesk ;
+    font-weight: 500;
+}
+.ppp{
+margin-left: 610px;
+margin-top: 10px;
+position: absolute;
+font-family:Hanken Grotesk ;
+font-weight: 700;
+}
+.pppp{
+    margin-left: 640px;
+margin-top: 10px;
+position: absolute;
+font-family:Hanken Grotesk ;
+font-weight: 700;
+color:grey;
+}
+.svg2{
+
+    margin-left: 410px;
+    margin-top: 75px;
+position: absolute;
+
+}
+.div44{
+    background-color: hsl(39, 100%, 56%);
+    opacity: 0.1;
+    width: 300px;
+    height: 50px;
+margin-left: 400px;
+margin-top: 60px;
+    position: absolute;
+    border-radius: 10px;
+}
+.p44{
+    margin-left: 440px;
+    margin-top: 75px;
+    color: hsl(39, 100%, 56%);
+    position: absolute;
+font-family:Hanken Grotesk ;
+font-weight: 700;
+}
+.p444{
+    margin-left: 610px;
+    margin-top: 75px;
+    position: absolute;
+font-family:Hanken Grotesk ;
+font-weight: 700;
+}
+.p42{
+  margin-left: 640px;
+  margin-top: 75px;
+position: absolute;
+font-family:Hanken Grotesk ;
+font-weight: 700;
+color:grey;
+}
+
+
+.svg3{
+    margin-left: 410px;
+    margin-top: 135px;
+position: absolute;
+}
+.d55{
+    background-color: hsl(166, 100%, 37%);
+    opacity: 0.1;
+    width: 300px;
+    height: 50px;
+margin-left: 400px;
+margin-top: 120px;
+    position: absolute;
+    border-radius: 10px;
+}
+.p55{
+    color: hsl(166, 100%, 37%);
+    margin-left: 440px;
+    margin-top: 135px;
+    position: absolute;
+    font-family:Hanken Grotesk ;
+    font-weight: 700;
+}
+.p555{
+    margin-left: 610px;
+    margin-top: 135px;
+    position: absolute;
+font-family:Hanken Grotesk ;
+font-weight: 700;
+}
+.p54{
+    margin-left: 640px;
+    margin-top: 135px;
+  position: absolute;
+  font-family:Hanken Grotesk ;
+  font-weight: 700;
+  color:grey;
+}
+.svg5{
+
+    margin-left: 410px;
+    margin-top: 200px;
+position: absolute;
+
+
+}
+.ddiv{
+    background-color: hsl(234, 85%, 45%);
+    opacity: 0.1;
+    width: 300px;
+    height: 50px;
+margin-left: 400px;
+margin-top: 185px;
+    position: absolute;
+    border-radius: 10px;
+}
+.p1p{
+    color: hsl(234, 85%, 45%);
+    margin-left: 440px;
+    margin-top: 200px;
+    position: absolute;
+    font-family:Hanken Grotesk ;
+    font-weight: 700;
+}
+.p2p{
+    margin-left: 610px;
+    margin-top: 200px;
+    position: absolute;
+font-family:Hanken Grotesk ;
+font-weight: 700;
+}
+.p3p{
+    margin-left: 640px;
+    margin-top: 200px;
+  position: absolute;
+  font-family:Hanken Grotesk ;
+  font-weight: 700;
+  color:grey;
+}
+.div123{
+    background-color: hsl(224, 30%, 27%);
+    width: 300px;
+    height: 50px;
+    margin-left: 400px;
+    margin-top: 270px;
+    position: absolute;
+    border-radius: 50px;
+}
+.div123:hover{
+    background-color:hsl(252, 100%, 67%) ;
+    cursor: pointer;
+}
+.p123{
+    color: hsl(0, 0%, 100%);
+    font-family:Hanken Grotesk ;
+    font-weight: 700;
+}
+
+@media screen and (max-width:1150px) {
+
+    .div1{
+        margin-left: -0px;
+    }
+    
+}
+@media screen and ( max-width:420px) {
+
+    .div2{
+        margin-top: 480px;
+        margin-left: -2px;
+        width: 370px;
+    }
+    .svg1{
+        margin-left: 10px;
+    }
+    .pp{
+        margin-left: 30px;
+    }
+.ppp{
+    margin-left: 220px;
+}
+.pppp{
+    margin-left: 250px;
+}
+  .div33{
+    margin-left: 10px;
+  }
+  .div44{
+    margin-left: 10px;
+  }
+  .svg2{
+    margin-left: 10px;
+  }
+  .p44{
+    margin-left: 30px;
+  }
+  .p444{
+    margin-left: 220px
+  }
+  .p42{
+    margin-left: 250px;
+  }
+  .d55{
+    margin-left: 10px;
+  }
+  .svg3{
+    margin-left: 10px;
+    
+  }
+  .p55{
+    margin-left:   30px; 
+   }
+   .p555{
+    margin-left: 220px;
+
+   }
+   .p54{
+    margin-left: 250px;
+   }
+   .ddiv{
+    margin-left: 10px;
+   }
+   .svg5{
+    margin-left:10px;
+   }
+   .p1p{
+    margin-left: 30px;
+   }
+   .p2p{
+    margin-left: 220px;
+   }
+   .p3p{
+    margin-left: 250px;
+   }
+   .div123{
+    margin-left: 10px;
+   }
+   .p22{
+    margin-left: 10px;
+   }
+   }
